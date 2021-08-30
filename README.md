@@ -7,6 +7,7 @@ Features
 --------
 
 * Match SLUGs
+* More SLUGs
 
 
 
