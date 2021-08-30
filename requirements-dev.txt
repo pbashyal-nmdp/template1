@@ -1,0 +1,7 @@
+allure-behave==2.9.43
+flake8==3.5.0
+bump2version==0.5.10
+wheel==0.32.1
+watchdog==0.9.0
+coverage==4.5.1
+Sphinx==1.8.1
